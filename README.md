@@ -27,6 +27,7 @@
 | [0706-design-hashmap](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -53,6 +54,7 @@
 | [0258-add-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Manacher
 |  |
 | ------- |
@@ -187,4 +190,16 @@
 | ------- |
 | [0705-design-hashset](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
