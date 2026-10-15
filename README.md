@@ -13,6 +13,7 @@
 | [0048-rotate-image](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -31,6 +32,7 @@
 | [0007-reverse-integer](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
