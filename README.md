@@ -55,6 +55,7 @@
 | [0014-longest-common-prefix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0005-longest-palindromic-substring](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
