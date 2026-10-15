@@ -61,6 +61,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0010-regular-expression-matching](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Manacher
 |  |
 | ------- |
@@ -208,16 +210,19 @@
 | ------- |
 | [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -239,4 +244,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
