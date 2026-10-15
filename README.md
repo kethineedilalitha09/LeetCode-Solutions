@@ -26,12 +26,14 @@
 | [0705-design-hashset](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -138,6 +140,7 @@
 | [0054-spiral-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
 | ------- |
