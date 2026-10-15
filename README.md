@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -39,6 +40,7 @@
 | [0006-zigzag-conversion](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
