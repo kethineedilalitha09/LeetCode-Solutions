@@ -19,6 +19,7 @@
 | [0204-count-primes](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
