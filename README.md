@@ -17,6 +17,7 @@
 | [0162-find-peak-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -49,6 +50,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
 | ------- |
