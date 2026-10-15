@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -85,6 +86,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
