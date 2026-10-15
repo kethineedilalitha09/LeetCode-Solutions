@@ -14,6 +14,7 @@
 | [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0162-find-peak-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -65,6 +66,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
