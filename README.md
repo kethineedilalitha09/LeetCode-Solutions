@@ -41,6 +41,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3731-find-missing-elements](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [1512-number-of-good-pairs](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3731-find-missing-elements](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3731-find-missing-elements](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
