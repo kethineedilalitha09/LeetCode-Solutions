@@ -65,6 +65,7 @@
 | [1140-stone-game-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Recursion
 |  |
 | ------- |
@@ -176,11 +177,13 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Primality Test
 |  |
 | ------- |
@@ -189,6 +192,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
@@ -258,4 +262,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
