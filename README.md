@@ -15,6 +15,7 @@
 | [0054-spiral-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -45,6 +46,7 @@
 | [0001-two-sum](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,8 +98,17 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
