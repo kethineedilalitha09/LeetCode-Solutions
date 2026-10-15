@@ -40,6 +40,7 @@
 | [0048-rotate-image](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Counting
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
