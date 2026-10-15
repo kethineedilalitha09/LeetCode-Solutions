@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0008-string-to-integer-atoi](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,4 +82,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
