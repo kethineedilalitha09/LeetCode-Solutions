@@ -39,6 +39,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Simulation
 |  |
 | ------- |
