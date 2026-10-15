@@ -40,6 +40,7 @@
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Matrix
 |  |
 | ------- |
