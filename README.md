@@ -284,4 +284,16 @@
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
