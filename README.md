@@ -12,11 +12,13 @@
 | [0035-search-insert-position](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
