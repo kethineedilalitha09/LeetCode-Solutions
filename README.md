@@ -25,6 +25,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -172,6 +173,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Design
 |  |
 | ------- |
