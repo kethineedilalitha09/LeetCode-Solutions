@@ -72,6 +72,7 @@
 | [1512-number-of-good-pairs](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0383-ransom-note](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [0204-count-primes](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1952-three-divisors) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Primality Test
 |  |
 | ------- |
@@ -286,6 +289,7 @@
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -298,4 +302,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
