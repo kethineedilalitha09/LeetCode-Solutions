@@ -10,10 +10,12 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -25,6 +27,7 @@
 | [0002-add-two-numbers](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
