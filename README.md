@@ -28,6 +28,7 @@
 | [0724-find-pivot-index](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -107,6 +108,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0217-contains-duplicate](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -202,4 +205,24 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
