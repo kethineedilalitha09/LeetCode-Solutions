@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -59,6 +60,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -160,4 +162,5 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
