@@ -30,6 +30,7 @@
 | [0877-stone-game](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -77,6 +78,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0706-design-hashmap) |
+| [1207-unique-number-of-occurrences](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
