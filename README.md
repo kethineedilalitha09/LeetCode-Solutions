@@ -52,6 +52,7 @@
 | [0010-regular-expression-matching](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
