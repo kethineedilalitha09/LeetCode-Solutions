@@ -41,6 +41,7 @@
 | [0066-plus-one](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0242-valid-anagram](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Counting
 |  |
 | ------- |
