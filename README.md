@@ -24,6 +24,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0705-design-hashset](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0383-ransom-note](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 ## String
 |  |
 | ------- |
@@ -173,8 +176,10 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
