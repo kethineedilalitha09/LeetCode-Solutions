@@ -71,6 +71,7 @@
 | [1510-stone-game-iv](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
