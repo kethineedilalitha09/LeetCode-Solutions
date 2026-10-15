@@ -36,6 +36,7 @@
 | [1512-number-of-good-pairs](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Matrix
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [0724-find-pivot-index](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 ## Design
 |  |
 | ------- |
