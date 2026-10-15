@@ -31,6 +31,7 @@
 | [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1140-stone-game-ii](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -145,6 +146,7 @@
 | [0242-valid-anagram](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
