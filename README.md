@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
