@@ -36,6 +36,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -182,6 +183,7 @@
 | [0258-add-digits](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kethineedilalitha09/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
